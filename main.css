@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(37, 36, 36);
+}
+img{
+    border-radius: 5%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+h1{
+    color: slateblue;
+    text-align: center;
+    margin-top: 50px;
+}
+p{
+    color: grey;
+    margin-top: 50px;
+}
+ul{
+    margin-top: 20px;
+    border: 2px solid grey ;
+    list-style-type: lower-roman;
+    color: slateblue;
+
+}
+li{ color: rgb(134, 119, 231);
+    margin-top: 15px;
+}
